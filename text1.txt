@@ -1,6 +1,2 @@
 This is the test file2 from besant technologies on 13/12/2023
 created by Imran
-
-Modify part1 in text1
-Modify part2 in text1
-Modify part3 in text1
